@@ -6,7 +6,6 @@ A plugin to use Drake's direct collocation algorythm with Moveit2's motion plann
 
 ### TO DO:
 * Submit application draft
-* Sync repository
 * Motion planning Example
 * Plugin tutorial
 * Upload senior project to github
@@ -14,3 +13,4 @@ A plugin to use Drake's direct collocation algorythm with Moveit2's motion plann
 
 ### Project Jounal
 3/25/24
+* Synced repository
