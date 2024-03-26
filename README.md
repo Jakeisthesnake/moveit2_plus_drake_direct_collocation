@@ -11,6 +11,6 @@ A plugin to use Drake's direct collocation algorythm with Moveit2's motion plann
 * Upload senior project to github
 
 
-### Project Jounal
+### Project Journal
 3/25/24
 * Synced repository
