@@ -1,5 +1,5 @@
 # moveit2_plus_drake_gsoc_2024_project
-A plugin to use Drake's TOPPRA algorythm with Moveit2's motion planning interface
+A plugin to use Drake's TOPPRA algorithm with Moveit2's motion planning interface.
 
 ### TO DO:
 * Figure out how to use Drake's implementation of TOPPRA
