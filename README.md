@@ -1,8 +1,22 @@
 # moveit2_plus_drake_gsoc_2024_project
 A plugin to use Drake's TOPPRA algorithm with Moveit2's motion planning interface.
 
+### Moveit / Drake interface notes
+Moveit inteface:
+* "The interface to the motion planners is through a ROS action or service (offered by the move_group node)."
+* "generate trajectories that are properly time-parameterized accounting for the maximum velocity and acceleration limits imposed on individual joints. These limits are read from a special joint_limits.yaml configuration file that is specified for each robot."
+* Files to make https://moveit.picknik.ai/main/_images/lerp_planner.png
+* * drake_toppra_planner_maanager.cpp
+  * drake_toppra_planning_context.cpp
+  * drake_toppra_interface.cpp
+  * drake_toppra_interface_plugin_description.xml
+  * package.xml
+    
 ### TO DO:
 * Figure out how to use Drake's implementation of TOPPRA
+* Look at move_group node for motion planner interface via ROS action/service
+* Side quest: validateworkspacebounds seems to oporate when field aren't filled in???
+* 
 
 ### Project Journal
 4/1
