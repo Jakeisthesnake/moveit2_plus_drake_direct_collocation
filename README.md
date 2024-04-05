@@ -19,6 +19,12 @@ Moveit inteface:
 * Side quest: planning adapter tutorial is for ros melodic???
 
 ### Project Journal
+4/5
+* Working on Drake tutorials (completed exercise 1.5 of MIT UA course, stating 2.)
+
+4/3
+* Working on Drake tutorials (exercise 1.5 of MIT UA course)
+
 4/2
 * Read through the Moveit planning pipeling documentation.
 * Browsed the lastest papers on TOPP yes there are more advanced algoritms to handle third order constraints (i.e. jerk limits) but Drake implemented TOPPRA and part of the project is interfacing with Drake, so I'll stick with that.
