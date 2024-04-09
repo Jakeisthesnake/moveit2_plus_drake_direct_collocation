@@ -54,8 +54,16 @@ Moveit inteface:
 
 
 ### Project Journal
+4/9
+* Hmmmm I should switch from underactuated robotics to the manipulator course.
+
+4/8
+* Took notes on Drake's TOPPRA inputs
+* Read about multibodyplant, trajectory, and frame classes
+* Completed MIT UA 2.5, started 2.6
+
 4/5
-* Working on Drake tutorials (completed exercise 1.5 of MIT UA course, stating 2.5)
+* Working on Drake tutorials (completed exercise 1.5 of MIT UA course, starting 2.5)
 
 4/3
 * Working on Drake tutorials (exercise 1.5 of MIT UA course)
@@ -82,4 +90,4 @@ Moveit inteface:
 
 3/25/24
 * Synced repository
-* Sumbitted application draft
+* Submitted application draft
