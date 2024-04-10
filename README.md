@@ -54,8 +54,13 @@ Moveit inteface:
 
 
 ### Project Journal
+4/10
+* Completed ch2, ex 1.
+* Submitted pull request to fix RenderDiagram error!
+
 4/9
-* Hmmmm I should switch from underactuated robotics to the manipulator course.
+* Started working on the manipulator course. It is much more relevant to this project compared to the underactuated robotics class.
+* Started Ch2, ex1.
 
 4/8
 * Took notes on Drake's TOPPRA inputs
