@@ -57,6 +57,8 @@ Moveit inteface:
 4/10
 * Completed ch2, ex 1.
 * Submitted pull request to fix RenderDiagram error!
+* Completed ch2 ex 2.
+* Started ex 3.
 
 4/9
 * Started working on the manipulator course. It is much more relevant to this project compared to the underactuated robotics class.
