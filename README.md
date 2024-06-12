@@ -54,6 +54,10 @@ Moveit inteface:
 
 
 ### Project Journal
+6/11
+* Finally finished Manipulation exercises through ch6 which cover trajectory planning
+* Started refreshing myself on Moveit's architecture.
+  
 4/10
 * Completed ch2, ex 1.
 * Submitted pull request to fix RenderDiagram error!
